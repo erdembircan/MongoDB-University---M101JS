@@ -1,0 +1,9 @@
+Which of the following value types are defined by the JSON spec? Check all that apply.
+Check all that apply:
+
+object (X)
+array (X)
+date
+string (X)
+integer
+number (X)

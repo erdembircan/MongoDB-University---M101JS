@@ -1,0 +1,3 @@
+True or false? BSON plays the role of a canonical (i.e., "unique") representation of documents shared across all drivers and tools.
+
+True
